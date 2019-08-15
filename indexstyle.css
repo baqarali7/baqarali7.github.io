@@ -1,0 +1,43 @@
+body {
+  	background: url(a.jpg) center no-repeat fixed;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 100%;
+	}
+.king{
+	color: #eee;
+}
+.container{
+	font-size: 10px;
+	font-family: "Bebas Neue"; 
+	margin-top: 200px;
+}
+
+.btn {
+	  border-radius: 30px;
+	  background-color: #F39C12;
+	  border: none;
+	  color: white;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 15px;
+}
+.btn:hover {
+	opacity: 0.8;
+}
+
+}
+hr { 
+  	border-radius: 5px;
+}
+.dots {
+  color: orange;
+  // height: 2px;
+  border-width: 0 0 2px;
+  border-style: solid;
+  width: 116px;
+}
+
